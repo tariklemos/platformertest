@@ -1,0 +1,837 @@
+fileFormatVersion: 2
+guid: df19e937dc1fd0b41a4a1ebd29b1552a
+timeCreated: 1445676703
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: zero_idle02
+    21300002: zero_idle01
+    21300004: zero_idle03
+    21300006: zero_idle04
+    21300008: zero_walking01
+    21300010: zero_walking02
+    21300012: zero_walking03
+    21300014: zero_walking04
+    21300016: zero_walking05
+    21300018: zero_walking06
+    21300020: zero_walking07
+    21300022: zero_walking08
+    21300024: zero_walking09
+    21300026: zero_walking10
+    21300028: zero_walking11
+    21300030: zero_walking12
+    21300032: zero_walking13
+    21300034: zero_walking14
+    21300036: zero_walking15
+    21300038: zero_walking16
+    21300040: zero_jumping01
+    21300042: zero_jumping02
+    21300044: zero_jumping03
+    21300046: zero_jumping04
+    21300048: zero_jumping05
+    21300050: zero_jumping06
+    21300052: zero_jumping07
+    21300054: zero_jumping08
+    21300056: zero_jumping09
+    21300058: zero_jumping10
+    21300060: zero_jumping11
+    21300062: zero_attack101
+    21300064: zero_attack102
+    21300066: zero_attack103
+    21300068: zero_attack104
+    21300070: zero_attack105
+    21300072: zero_attack106
+    21300074: zero_attack107
+    21300076: zero_attack108
+    21300078: zero_attack109
+    21300080: zero_attack110
+    21300082: zero_attack111
+    21300084: zero_attack112
+    21300086: zero_attack201
+    21300088: zero_attack202
+    21300090: zero_attack203
+    21300092: zero_attack204
+    21300094: zero_attack205
+    21300096: zero_attack206
+    21300098: zero_attack207
+    21300100: zero_attack208
+    21300102: zero_attack209
+    21300104: zero_attack210
+    21300106: zero_attack301
+    21300108: zero_attack302
+    21300110: zero_attack303
+    21300112: zero_attack304
+    21300114: zero_attack305
+    21300116: zero_attack306
+    21300118: zero_attack307
+    21300120: zero_attack308
+    21300122: zero_attack309
+    21300124: zero_attack310
+    21300126: zero_attack311
+    21300128: zero_attack312
+    21300130: zero_dash01
+    21300132: zero_dash02
+    21300134: zero_dash03
+    21300136: zero_pose
+    21300138: zero_face
+    21300140: zero_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: zero_idle02
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 820
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_idle01
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 820
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_idle03
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 819
+        width: 42
+        height: 48
+      alignment: 9
+      pivot: {x: .490000218, y: .489548296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_idle04
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 820
+        width: 42
+        height: 47
+      alignment: 9
+      pivot: {x: .488544643, y: .497999996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_walking01
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 662
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_walking02
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 662
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_walking03
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 664
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_walking04
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 662
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_walking05
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 662
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_walking06
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 662
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_walking07
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 663
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_walking08
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 663
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_walking09
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 661
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_walking10
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 662
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_walking11
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 660
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_walking12
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 660
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_walking13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 660
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_walking14
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 660
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_walking15
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 660
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_walking16
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 660
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_jumping01
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 735
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_jumping02
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 731
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_jumping03
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 731
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_jumping04
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 731
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_jumping05
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 732
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_jumping06
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 736
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_jumping07
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 733
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_jumping08
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 724
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_jumping09
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 720
+        width: 35
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_jumping10
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 721
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_jumping11
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 723
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_attack101
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 528
+        width: 39
+        height: 46
+      alignment: 9
+      pivot: {x: .521031618, y: .491769552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_attack102
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 528
+        width: 46
+        height: 50
+      alignment: 9
+      pivot: {x: .574068308, y: .450784922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_attack103
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 526
+        width: 49
+        height: 63
+      alignment: 9
+      pivot: {x: .565670431, y: .390833288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_attack104
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 526
+        width: 78
+        height: 63
+      alignment: 9
+      pivot: {x: .403738767, y: .375811875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_attack105
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 529
+        width: 87
+        height: 60
+      alignment: 9
+      pivot: {x: .373809099, y: .392736822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_attack106
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 529
+        width: 91
+        height: 48
+      alignment: 9
+      pivot: {x: .403623134, y: .489484161}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_attack107
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 529
+        width: 83
+        height: 49
+      alignment: 9
+      pivot: {x: .355563968, y: .479396284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_attack108
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 529
+        width: 70
+        height: 45
+      alignment: 9
+      pivot: {x: .404453814, y: .519628882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_attack109
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 529
+        width: 59
+        height: 45
+      alignment: 9
+      pivot: {x: .468986899, y: .523834884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_attack110
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 530
+        width: 52
+        height: 45
+      alignment: 9
+      pivot: {x: .530333281, y: .522433817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_attack111
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 530
+        width: 45
+        height: 45
+      alignment: 9
+      pivot: {x: .612169027, y: .522433817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_attack112
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 532
+        width: 49
+        height: 45
+      alignment: 9
+      pivot: {x: .556656837, y: .495792657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_attack201
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 465
+        width: 66
+        height: 45
+      alignment: 9
+      pivot: {x: .403731018, y: .520857751}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_attack202
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 465
+        width: 83
+        height: 45
+      alignment: 9
+      pivot: {x: .306011796, y: .522462308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_attack203
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 465
+        width: 103
+        height: 45
+      alignment: 9
+      pivot: {x: .345081508, y: .520857751}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_attack204
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 464
+        width: 67
+        height: 46
+      alignment: 9
+      pivot: {x: .666094422, y: .53455919}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_attack205
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 464
+        width: 63
+        height: 46
+      alignment: 9
+      pivot: {x: .625119627, y: .533118844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_attack206
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 464
+        width: 53
+        height: 46
+      alignment: 9
+      pivot: {x: .589985967, y: .535999477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_attack207
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 465
+        width: 49
+        height: 45
+      alignment: 9
+      pivot: {x: .579757988, y: .525023758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_attack208
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 464
+        width: 44
+        height: 46
+      alignment: 9
+      pivot: {x: .495481998, y: .53455919}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_attack209
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 464
+        width: 41
+        height: 46
+      alignment: 9
+      pivot: {x: .453145832, y: .533119559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_attack210
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 464
+        width: 43
+        height: 46
+      alignment: 9
+      pivot: {x: .49383688, y: .53455919}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_attack301
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 392
+        width: 46
+        height: 50
+      alignment: 9
+      pivot: {x: .578479767, y: .472562879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_attack302
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 393
+        width: 54
+        height: 59
+      alignment: 9
+      pivot: {x: .766076684, y: .410804361}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_attack303
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 388
+        width: 96
+        height: 64
+      alignment: 9
+      pivot: {x: .432837009, y: .368815422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_attack304
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 381
+        width: 103
+        height: 71
+      alignment: 9
+      pivot: {x: .393369794, y: .433978438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_attack305
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 386
+        width: 104
+        height: 66
+      alignment: 9
+      pivot: {x: .39049089, y: .488692313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_attack306
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 382
+        width: 104
+        height: 70
+      alignment: 9
+      pivot: {x: .393871009, y: .463552862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_attack307
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 385
+        width: 72
+        height: 67
+      alignment: 9
+      pivot: {x: .565182149, y: .471497029}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_attack308
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 390
+        width: 58
+        height: 55
+      alignment: 9
+      pivot: {x: .72712338, y: .475231946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_attack309
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 389
+        width: 53
+        height: 43
+      alignment: 9
+      pivot: {x: .758696914, y: .638512909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_attack310
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 393
+        width: 51
+        height: 39
+      alignment: 9
+      pivot: {x: .793334961, y: .58526063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_attack311
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 394
+        width: 51
+        height: 39
+      alignment: 9
+      pivot: {x: .782012343, y: .598368347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_attack312
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 393
+        width: 41
+        height: 44
+      alignment: 9
+      pivot: {x: .708393395, y: .58221364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_dash01
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 723
+        width: 70
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_dash02
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 724
+        width: 106
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_dash03
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 722
+        width: 130
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_pose
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 729
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_face
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 615
+        width: 111
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zero_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 558
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
